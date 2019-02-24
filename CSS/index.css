@@ -1,0 +1,44 @@
+
+.portada{
+ width: 100%;
+	height: 20%;
+background:black;
+}
+.b{ 
+	position: relative;
+	width: 50%;
+	height: 90%;
+	left: 25%;
+	right: 300px;
+	background: black;}
+
+body{
+	background:url(../multimedia/lll.jpg);}
+video{
+	width: 100%;
+	left: 25%;
+	right: 25%;
+	}
+
+audio {
+	left: 25%;
+	width: 100%;}
+p{
+	color: white;}
+h1{
+	font-size: 25px;
+	color: white;}
+img{
+	position: static;
+	size: 10%;
+	border-radius: 100px;
+}
+.formulario{
+	position: relative;
+	width: 50%;
+	height: 90%;
+	left: 25%;
+	right: 300px;
+	background: green;
+
+}
